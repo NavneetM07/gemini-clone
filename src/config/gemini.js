@@ -4,7 +4,7 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 const API_KEY = "AIzaSyC8NeGhwz1svbsRZkotiIQwKI3XpJAcoaI";
 
 // • choose a model id that still exists
-const MODEL_ID = "gemini-1.5-pro";       // text‑only, long context
+const MODEL_ID = "gemini-2.5-pro";       // text‑only, long context
 // or  "gemini-1.5-flash"                // cheaper / faster
 // or  "gemini-pro-vision"               // multimodal
 
